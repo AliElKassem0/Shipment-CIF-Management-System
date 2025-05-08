@@ -1,4 +1,7 @@
 # Shipment-CIF-Management-System
+
+**GROUP WORK OF 2 PROJECT**
+
 Dieses Projekt ist ein Java-basiertes Versandverwaltungssystem, das es Benutzern ermöglicht, Kundeninformationen zu verwalten, verschiedene Versandarten hinzuzufügen, Bestellungen zu erstellen und Rechnungen anzuzeigen. Es kombiniert eine konsolenbasierte Benutzeroberfläche mit einer grafischen Komponente, um eine funktionale und benutzerfreundliche Anwendung zu bieten.
 
 Kundenverwaltung:
